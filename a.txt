@@ -3,6 +3,5 @@ potato
 apple
 orange
 beatroot
-grapes
-rabbit
+
 
